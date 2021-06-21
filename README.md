@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/George-Martin-Marino-Portfolio-bda10b9a1c334dff870f45af76ea4bb7?p=64b8ace6764848448162d1e68b485aed](https://www.notion.so/George-Martin-Marino-Portfolio-bda10b9a1c334dff870f45af76ea4bb7?p=64b8ace6764848448162d1e68b485aed)
+- 👨‍💻 All of my projects are available at [tinyurl.com/gmm-portfolio-2021](tinyurl.com/gmm-portfolio-2021)
 
 - 💬 Ask me about **Machine Learning**
 
