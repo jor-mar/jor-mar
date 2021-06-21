@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [tinyurl.com/gmm-portfolio-2021](tinyurl.com/gmm-portfolio-2021)
+- 👨‍💻 All of my projects are available at [www.tinyurl.com/gmm-portfolio-2021](www.tinyurl.com/gmm-portfolio-2021)
 
 - 💬 Ask me about **Machine Learning**
 
